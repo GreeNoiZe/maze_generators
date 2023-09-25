@@ -2,4 +2,6 @@ Le fichier maze_backtracker.py contient la classe Maze qui se charge de génére
 
 Le fichier maze_generation se charge d'appeler la classe Maze pour générer le labyrinthe. Il calcule également le temps d'éxécution du programme avec la méthode perf_counter() du module time. Le temps d'éxécution est ensuite ajouté au fichier et à l'affichage dans le terminal.
 
+Les fonctionnements des différentes méthodes sont expliquées dans les docstrings.
+
 La case de départ est représentée par un'S' pour start et la case finale par un 'E' pour end.
