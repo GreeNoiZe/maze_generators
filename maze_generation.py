@@ -1,4 +1,4 @@
-from maze_backtracking import Maze
+from maze_backtracker import Maze
 from time import perf_counter
 
 start = perf_counter() # on initialise le compteur pour calculer le temps d'éxécution du programme
